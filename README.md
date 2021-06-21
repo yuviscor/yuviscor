@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yuvraj currently pursuing computer science engineering.
 - 👀 I’m interested in full stack development, ML and cloud computing
 - 🌱 I’m currently learning Cloud computing.
-- 💞️ I’m looking to collaborate on with people who are learing or doing projects in full stack with flask.
+- 💞️ I’m looking to collaborate with people who are learning or doing projects in full stack with flask.
 - 📫 How to reach me 'email me: csecec.1802263@gmail.com'
 
 <!---
